@@ -12,6 +12,7 @@ public class MissingNumber {
 
 	private static int getMissedNumber(int[] number, int n) {
 		
+		system.out.println("HellO");
 		int actualSize=0;
 		int expectedSize=n*(n+1)/2;
 		for (int i:number)
