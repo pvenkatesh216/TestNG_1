@@ -1,0 +1,15 @@
+<suite name="Suite">
+
+ <test name="Test">
+ <groups>
+ <run>
+ <include name="Smoke,Regression"></include>
+ </run>
+ </groups>
+ <classes>
+ <class name="testPack.First" />
+ </classes>
+
+ </test>
+
+ </suite> 

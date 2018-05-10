@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Test Suite]">
+  <test name="Any Name(failed)">
+    <classes>
+      <class name="testPack.Basic">
+        <methods>
+          <include name="f"/>
+        </methods>
+      </class> <!-- testPack.Basic -->
+    </classes>
+  </test> <!-- Any Name(failed) -->
+</suite> <!-- Failed suite [Test Suite] -->
